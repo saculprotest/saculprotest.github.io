@@ -2,14 +2,14 @@
 
 Bienvenue sur mon CV en ligne réalisé dans le cadre du projet de BTS SIO SISR.
 
-Ce site statique est développé en HTML5 et CSS3, avec une mise en page responsive mobile-first. Il est publié via GitHub Pages.
+Ce site statique est développé en HTML et CSS, avec une mise en page responsive mobile-first. Il est publié via GitHub Pages.
 
 ---
 
 ## 🚀 Liens utiles
 
 - 🔗 Dépôt GitHub : [https://github.com/ton-utilisateur/page_cv](https://github.com/ton-utilisateur/page_cv)
-- 🌐 Site en ligne : [https://ton-utilisateur.github.io/page_cv](https://ton-utilisateur.github.io/page_cv)
+- 🌐 Site en ligne : [https://saculprotest.github.io/page_cv](https://saculprotest.github.io/)
 
 ---
 
