@@ -8,7 +8,7 @@ Ce site statique est développé en HTML et CSS, avec une mise en page responsiv
 
 ## 🚀 Liens utiles
 
-- 🔗 Dépôt GitHub : [https://github.com/ton-utilisateur/page_cv](https://github.com/ton-utilisateur/page_cv)
+- 🔗 Dépôt GitHub : [https://github.com/saculprotest/saculprotest.github.io/tree/main](https://github.com/saculprotest/saculprotest.github.io/tree/main)
 - 🌐 Site en ligne : [https://saculprotest.github.io/page_cv](https://saculprotest.github.io/)
 
 ---
@@ -18,7 +18,7 @@ Ce site statique est développé en HTML et CSS, avec une mise en page responsiv
 ### 🔍 Validation W3C
 
 - ✅ 0 erreur
-- ⚠️ 1 avertissement : métadonnées incomplètes (résolu)
+- ✅ Chargement du site en 40 millisecondes
 
 Lien : [validator.w3.org](https://validator.w3.org/)
 
@@ -66,3 +66,6 @@ Lien : [PageSpeed](https://pagespeed.web.dev/)
 
 ## 👨‍🎓 Réalisé par : Lucas
 Étudiant BTS SIO SISR – 2025
+
+
+![alt text](image.png)
